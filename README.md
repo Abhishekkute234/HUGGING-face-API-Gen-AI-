@@ -1,1 +1,2 @@
-# TEXT-Summarization-Gen-AI-
+# Here is the library used 
+https://huggingface.co/docs/diffusers/en/installation
